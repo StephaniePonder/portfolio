@@ -1,0 +1,63 @@
+h1 {
+  color: #336600;
+  text-align: center;
+}
+p {
+  color: olive;
+  font-family: serif;
+}
+h2 {
+  color: #191970;
+}
+body {
+  background-color: cornsilk;
+}
+.indigo-text {
+   color: #0033cc;
+}
+.embolden {
+  font-weight:bold;
+}
+#lead-paragraph {
+  color: #ff3300; font-size: 1.5rem;
+}
+a:hover {
+  background-color: #FF99FF;
+}
+a[href="https://stephanieponder.github.io/semantic-elements/"] {
+  background-color: orange;
+  padding: 1rem;
+}
+a[href="https://stephanieponder.github.io/html-basics"] {
+  background-color: #6699ff;
+}
+h1 {
+  color: darkolivegreen;
+  border-style: double;
+  border-width: 2px;
+  border-color: #663300;
+}
+h2 {
+  border-style: double;
+  border-width: 2px;
+  border-color: #663300;
+  width: 30%;
+}
+h3 {
+  border-style: outset;
+  border-width: 1px;
+  border-color: black;
+  width: 25%;
+}
+img {
+  border-style: double;
+  border-color: orange;
+  border-width: 4px;
+  width:25%;
+}
+.burnt-orange-color {
+  color: #cc3300;
+}
+.text-alignment {
+  text-align: center;
+}
